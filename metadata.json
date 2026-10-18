@@ -1,0 +1,6 @@
+{
+  "name": "OpsPilot AI",
+  "description": "AI-powered operations management that converts photos, voice notes, and text into actionable solutions, assigned tasks, and verified resolutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
