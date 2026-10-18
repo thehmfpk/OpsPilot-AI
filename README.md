@@ -7,13 +7,34 @@ OpsPilot AI is an AI-powered operations management platform that transforms real
 
 Built with **React, TypeScript, Node.js, Express, Google Gemini, and Groq**, OpsPilot AI demonstrates how AI can support frontline operations through a practical, end-to-end workflow.
 
+## Project Demo
+
+**See OpsPilot AI in action!**
+
+Watch the demo to explore AI-powered issue reporting, intelligent task assignment, progress tracking, and evidence-based resolution verification.
+
+**[Watch the Full Demo Video](https://drive.google.com/file/d/1Oodf1vtU9dYHtraOGWAj8Z72z5DD0ALR/view?usp=sharing)**
+
 <p align="center">
   <strong>Report → Analyze → Assign → Resolve → Verify</strong>
 </p>
 
 <!-- Replace the image path below with your actual screenshot. -->
 <p align="center">
-  <img src="docs/images/opspilot-dashboard.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/1.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/2.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/3.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/4.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/5.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/6.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/6(2).png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/7.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/8.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/9.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/10.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/11.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/12.png" alt="OpsPilot AI operational dashboard" width="100%">
+  <img src="/img/13.png" alt="OpsPilot AI operational dashboard" width="100%">
 </p>
 
 <p align="center">
@@ -530,46 +551,6 @@ Private evidence and operational records should only be accessible to authorized
 
 ---
 
-## Screenshots
-
-Screenshots help reviewers understand the product faster than long descriptions. Add genuine screenshots of the application after checking that they do not expose credentials, private information, or sensitive records.
-
-Create a `docs/images/` directory and add your screenshots there.
-
-### 1. Landing Page
-
-<!-- Replace with your actual screenshot. -->
-![OpsPilot AI landing page](docs/images/opspilot-landing.png)
-
-### 2. Operations Dashboard
-
-<!-- Replace with your actual screenshot. -->
-![OpsPilot AI dashboard](docs/images/opspilot-dashboard.png)
-
-### 3. AI-Assisted Issue Reporting
-
-<!-- Replace with your actual screenshot. -->
-![Issue reporting workflow](docs/images/opspilot-reporting.png)
-
-### 4. Task Management
-
-<!-- Replace with your actual screenshot. -->
-![Task management interface](docs/images/opspilot-tasks.png)
-
-### 5. Resolution Verification Center
-
-<!-- Replace with your actual screenshot. -->
-![Resolution verification interface](docs/images/opspilot-verification.png)
-
-### 6. Analytics and Team Operations
-
-<!-- Replace with your actual screenshot. -->
-![Operations analytics](docs/images/opspilot-analytics.png)
-
-*Replace the example image paths with your actual screenshot filenames. Remove any screenshot entries you have not created yet.*
-
----
-
 ## Roadmap
 
 Potential future improvements include:
@@ -608,9 +589,11 @@ Never commit secrets to the repository. If a credential has been exposed, revoke
 
 ## Author
 
-**OpsPilot AI**  
-AI-powered operations management
 Name : Hafiz Muhammad Faizan
+
+Project : **OpsPilot AI** 
+
+AI-powered operations management
 
 GitHub: [@thehmfpk](https://github.com/thehmfpk)
 
